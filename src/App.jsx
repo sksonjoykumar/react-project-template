@@ -1,7 +1,11 @@
+import Hero from "./components/hero-section/Hero";
+import Index from "./navigation/Index";
+
 function App() {
   return (
     <>
-      <h1>React Project Template</h1>
+      <Index />
+      <Hero />
     </>
   );
 }
