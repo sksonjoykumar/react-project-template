@@ -1,11 +1,9 @@
-import Hero from "./components/hero-section/Hero";
-import Index from "./navigation/Index";
-
+import React from "react";
+import "./index.css";
 function App() {
   return (
     <>
-      <Index />
-      <Hero />
+      <h1>Hello World!</h1>
     </>
   );
 }
