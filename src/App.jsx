@@ -1,5 +1,4 @@
 import React from "react";
-import "./index.css";
 import Hello from "./components/Hello";
 function App() {
   return (
