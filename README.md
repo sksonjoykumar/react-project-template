@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # react-project-1
 # react-project-templates
 # react-project-templates
+# react-project-temp
